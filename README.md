@@ -14,6 +14,7 @@
 | **EventFlow** | 免費活動報名管理 | 自動彙整報名、管名額、追付款，不用熬夜對帳。<br>📌 需要自動候補、逾期清位？→ [進階版](https://sites.google.com/view/hengzhenfang-eventflow) | [免費版](https://hengzhenfang.pages.dev/tools/eventflow-starter/) |
 | **禮金計算機** | 評估紅包或禮品金額 | 不失禮、不吃土、不內耗 | [前往工具](https://hengzhenfang.pages.dev/tools/gift-calculator/) |
 | **食緣隨機** | 選擇障礙救星 | 定位後隨機推薦附近餐廳，可篩選口味 | [前往工具](https://hengzhenfang.pages.dev/tools/foodspin/) |
+| **揪帳** | 出遊/聚餐分帳 | 記帳分帳、自動產生轉帳清單，幫你把帳說清楚，不用再當討債的人 | [前往工具](https://hengzhenfang.pages.dev/tools/split/) |
 
 > 所有工具都放在衡真坊，點擊直接使用，無需下載或註冊。
 
