@@ -36,8 +36,8 @@
 我把工具的設計思考寫成文章：
 
 - **個人連結頁**：[hengzhenfang](https://bio.site/hengzhenfang)
-- **方格子（繁體中文）**：[前往看更多](https://vocus.cc/user/@hengzhenfang)
-- **Medium（英文+中文）**：[Medium](https://medium.com/@r.hengzhenfang)
+- **方格子**：[前往看更多](https://vocus.cc/salon/yushijiefang)
+- **Medium**：[Medium](https://medium.com/@r.hengzhenfang)
 - **LINE 貼圖**：[LINE stickershop](https://store.line.me/stickershop/author/5376104/zh-Hant)
 
 ---
