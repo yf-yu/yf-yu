@@ -14,8 +14,9 @@
 | **EventFlow** | 免費活動報名管理 | 自動彙整報名、管名額、追付款，不用熬夜對帳。<br>📌 需要自動候補、逾期清位？→ [升級版本](https://sites.google.com/view/hengzhenfang-eventflow) | [免費版](https://hengzhenfang.pages.dev/tools/eventflow-starter/) |
 | **禮金計算機** | 評估紅包或禮品金額 | 不失禮、不吃土、不內耗 | [前往工具](https://hengzhenfang.pages.dev/tools/gift-calculator/) |
 | **揪帳** | 出遊/聚餐分帳 | 記帳分帳、自動產生轉帳清單，幫你把帳說清楚，不用再當討債的人。<br>📌 需要更多人/更多筆？→ [升級版本](https://hengzhenfang.pages.dev/tools/pricing/)  | [前往工具](https://hengzhenfang.pages.dev/tools/split/) |
+| **節氣養生** | 中醫節氣與體質自測 | 結合二十四節氣、中醫九種體質測驗與每日養生日誌。<br>📌 支援 PWA，可加入主畫面離線使用。 | [前往 App](https://yf-yu.github.io/solar-terms-health/) |
 
-> 所有工具都放在衡真坊，點擊直接使用，無需下載或註冊。
+> 所有工具都放在衡真坊或github中，點擊可直接使用。
 
 
 ---
